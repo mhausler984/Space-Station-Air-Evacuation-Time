@@ -1,1 +1,2 @@
 # Space-Station-Air-Evacuation-Time
+This is a paper completed as part of the University Physics Competition in 2024 which earned a Bronze medal. The paper attempts to respond to an open-ended problem regarding a space station with air being evacuated through a small hole. Our group focused on pressure differences and different test cases, solving each used choked flow and mass flow rate equations and by considering different assumptions such as adiabatic gas expansion, infitesimal thickness and uniform gas composition.
